@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Список задач</string>
+    <string name="title_list">Текущий список</string>
+    <string name="add_item">Добавить задачу</string>
+    <string name="add_item_process">Добавление задачи</string>
+    <string name="edit_item">Изменить</string>
+    <string name="edit_item_process">Изменение задачи</string>
+    <string name="completed_item">Выполнена</string>
+    <string name="not_completed_item">Не выполнена</string>
+    <string name="name_item">Название</string>
+    <string name="save_item">Сохранить</string>
+    <string name="saved_item">Задача сохранена</string>
+    <string name="delete_item">Удалить</string>
+    <string name="deleted_item">Задача удалена</string>
+    <string name="cancel_item">Отменить</string>
+    <string name="unnamed_item">Без названия</string>
+    <string name="no_items">Пока нет ни одной задачи</string>
+</resources>
